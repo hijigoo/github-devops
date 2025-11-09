@@ -1,4 +1,4 @@
-name: Python package
+name: Python package - Installing Dependencies
 
 on: [push]
 
